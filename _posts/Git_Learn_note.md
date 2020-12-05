@@ -1,3 +1,8 @@
+---
+layout: post
+title: Git学习笔记
+---
+
 # Git学习笔记
 
 ## Git的两大特点
